@@ -1,2 +1,2 @@
-from busybox
+FROM busybox
 CMD echo "Hello World"!"
